@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnWord</string>
+
+
+    <string name="learning">Learning</string>
+    <string name="practice">Practice</string>
+</resources>
